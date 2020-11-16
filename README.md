@@ -2,11 +2,12 @@
 
 A theme for Hugo with multi language support, dark/light theme switch and more
 
-![Hello Friend NG](https://dsh.re/d27822)
+![Ultima Thule](https://github.com/AlessioGiambrone/hugo-theme-ultima-thule/raw/main/exampleSite/ultima_thule.png)
+
 
 ## General informations
 
-This theme is based on 
+This theme is a fork of 
 [hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) theme
 by [Rhazdon](https://github.com/rhazdon), which in turn is 
 highly inspired by the 
