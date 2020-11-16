@@ -112,7 +112,7 @@ Use [RealFaviconGenerator](https://realfavicongenerator.net/) to generate these 
 
 ## How to configure
 
-The theme doesn't require any advanced configuration. Just copy:
+The theme doesn't require any advanced configuration. Just copy, as for:
 
 ``` toml
 baseurl = "/"
@@ -129,7 +129,7 @@ theme = "ultima-thule"
   disableReadOtherPosts = false
 
   # Metadata mostly used in document's head
-  description = "Homepage and blog by Djordje Atlialp"
+  description = "a site from the deep space"
   keywords = "homepage, blog, science, informatics, development, programming"
   images = [""]
 
@@ -141,14 +141,14 @@ theme = "ultima-thule"
 
 [languages]
   [languages.en]
-    title = "Hello Friend NG"
+    title = "Ultima Thule"
     subtitle = "A simple theme for Hugo"
     keywords = ""
     copyright = ""
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "hello friend ng"
+      logoText = "ultima thule"
       logoHomeLink = "/"
     # or
     #
@@ -232,7 +232,5 @@ If you spot any bugs, please use [Issue Tracker](https://github.com/alessiogiamb
   - [Simple Icons](https://simpleicons.org/)
 
 ## Licence
-
-Copyright © 2019 Djordje Atlialp
 
 The theme is released under the MIT License. Check the [original theme license](https://github.com/rhazdon/hugo-theme-hello-friend-ng/LICENSE.md) for additional licensing information.

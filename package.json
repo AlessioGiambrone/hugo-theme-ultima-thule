@@ -2,7 +2,7 @@
   "name": "ultima-thule",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Djordje Atlialp <djordje@atlialp.com>",
+  "author": "Alessio Giambrone",
   "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
