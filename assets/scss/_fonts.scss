@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'Inconsolata';
+  font-style:  normal;
+  font-display: auto;
+  font-weight: 400;
+  src: url("../fonts/inconsolata/static/Inconsolata-Regular.ttf") ,
+}
+@font-face {
+  font-family: 'Inconsolata';
+  font-style:  italic;
+  font-display: auto;
+  font-weight: 400;
+  src: url("../fonts/inconsolata/static/Inconsolata-Italic.ttf") ,
+}
+
+@font-face {
+  font-family: 'Inconsolata';
+  font-style:  normal;
+  font-display: auto;
+  font-weight: 600;
+  src: url("../fonts/inconsolata/static/Inconsolata-Medium.ttf") ,
+}
+@font-face {
+  font-family: 'Inconsolata';
+  font-style:  italic;
+  font-display: auto;
+  font-weight: 600;
+  src: url("../fonts/inconsolata/static/Inconsolata-MediumItalic.ttf") ,
+}
+
+@font-face {
+  font-family: 'Inconsolata';
+  font-style:  normal;
+  font-display: auto;
+  font-weight: 800;
+  src: url("../fonts/inconsolata/static/Inconsolata-Bold.ttf") ,
+}
+@font-face {
+  font-family: 'Inconsolata';
+  font-style:  italic;
+  font-display: auto;
+  font-weight: 800;
+  src: url("../fonts/inconsolata/static/Inconsolata-BoldItalic.ttf") ,
+}

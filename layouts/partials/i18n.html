@@ -1,0 +1,6 @@
+{{ if .IsTranslated }}
+  {{ i18n "postAvailable" }}
+    {{ range .Translations }}
+    <span><a style="text-transform: uppercase;" href="{{ .Permalink }}">{{ .Lang }}</span></a>
+      {{ end}}
+  {{ end }}
